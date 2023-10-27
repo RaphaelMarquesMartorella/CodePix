@@ -3,7 +3,6 @@ package model
 import (
 	"encoding/json"
 	"fmt"
-
 	"github.com/go-playground/validator/v10"
 )
 
